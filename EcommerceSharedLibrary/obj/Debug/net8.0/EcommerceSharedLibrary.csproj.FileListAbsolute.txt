@@ -1,0 +1,12 @@
+D:\Projects\Code\Portfolio\EcommerceSharedLibrarySolutions\EcommerceSharedLibrary\bin\Debug\net8.0\EcommerceSharedLibrary.deps.json
+D:\Projects\Code\Portfolio\EcommerceSharedLibrarySolutions\EcommerceSharedLibrary\bin\Debug\net8.0\EcommerceSharedLibrary.dll
+D:\Projects\Code\Portfolio\EcommerceSharedLibrarySolutions\EcommerceSharedLibrary\bin\Debug\net8.0\EcommerceSharedLibrary.pdb
+D:\Projects\Code\Portfolio\EcommerceSharedLibrarySolutions\EcommerceSharedLibrary\obj\Debug\net8.0\EcommerceSharedLibrary.csproj.AssemblyReference.cache
+D:\Projects\Code\Portfolio\EcommerceSharedLibrarySolutions\EcommerceSharedLibrary\obj\Debug\net8.0\EcommerceSharedLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Code\Portfolio\EcommerceSharedLibrarySolutions\EcommerceSharedLibrary\obj\Debug\net8.0\EcommerceSharedLibrary.AssemblyInfoInputs.cache
+D:\Projects\Code\Portfolio\EcommerceSharedLibrarySolutions\EcommerceSharedLibrary\obj\Debug\net8.0\EcommerceSharedLibrary.AssemblyInfo.cs
+D:\Projects\Code\Portfolio\EcommerceSharedLibrarySolutions\EcommerceSharedLibrary\obj\Debug\net8.0\EcommerceSharedLibrary.csproj.CoreCompileInputs.cache
+D:\Projects\Code\Portfolio\EcommerceSharedLibrarySolutions\EcommerceSharedLibrary\obj\Debug\net8.0\EcommerceSharedLibrary.dll
+D:\Projects\Code\Portfolio\EcommerceSharedLibrarySolutions\EcommerceSharedLibrary\obj\Debug\net8.0\refint\EcommerceSharedLibrary.dll
+D:\Projects\Code\Portfolio\EcommerceSharedLibrarySolutions\EcommerceSharedLibrary\obj\Debug\net8.0\EcommerceSharedLibrary.pdb
+D:\Projects\Code\Portfolio\EcommerceSharedLibrarySolutions\EcommerceSharedLibrary\obj\Debug\net8.0\ref\EcommerceSharedLibrary.dll
