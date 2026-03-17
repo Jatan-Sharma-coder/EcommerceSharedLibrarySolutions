@@ -1,10 +1,4 @@
 ﻿using Microsoft.AspNetCore.Http;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
 namespace EcommerceSharedLibrary.Middleware
 {
     public class LIstenToOnlyApiGateway(RequestDelegate next)
